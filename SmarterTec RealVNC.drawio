@@ -34,6 +34,12 @@
         <mxCell id="y-DEi6fMSa4QyEShz9Gv-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=24;" value="Internet" vertex="1">
           <mxGeometry height="40" width="140" x="50" y="450" as="geometry" />
         </mxCell>
+        <mxCell id="y-DEi6fMSa4QyEShz9Gv-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=30;" value="SmarterTec Experte" vertex="1">
+          <mxGeometry height="40" width="290" x="-480" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="y-DEi6fMSa4QyEShz9Gv-5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=30;" value="Kunde" vertex="1">
+          <mxGeometry height="40" width="290" x="433.08" y="490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
