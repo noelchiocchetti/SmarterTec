@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jZVaUwOg5UY3L9NAnvdq-92" parent="1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;labelBackgroundColor=none;" value="User" vertex="1">
-          <mxGeometry height="78" width="78" x="1431.5000000000002" y="147.5" as="geometry" />
-        </mxCell>
         <mxCell id="_mvZE4fIDKcjCtpPh1-f-1" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#EB5B21;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" value="" vertex="1">
           <mxGeometry height="260" width="356.16" x="1000" y="41.25" as="geometry" />
-        </mxCell>
-        <mxCell id="KoUTDVHLd9iRWCRJB0oM-4" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" value="" vertex="1">
-          <mxGeometry height="141" width="153" x="1450" y="261.5" as="geometry" />
         </mxCell>
         <mxCell id="_mvZE4fIDKcjCtpPh1-f-9" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=30;" value="SmarterTec Experte" vertex="1">
           <mxGeometry height="40" width="290" x="330" y="1030" as="geometry" />
@@ -178,7 +172,7 @@
             <mxPoint x="920" y="695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBRDf5UTFeyPK4SHQsNQ-37" edge="1" parent="1" source="_mvZE4fIDKcjCtpPh1-f-3" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;elbow=vertical;startArrow=open;endFill=0;strokeColor=#3399FF;rounded=0;strokeWidth=7;endSize=20;startFill=0;startSize=20;exitX=0.758;exitY=0.947;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="SBRDf5UTFeyPK4SHQsNQ-37" edge="1" parent="1" source="_mvZE4fIDKcjCtpPh1-f-3" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;elbow=vertical;startArrow=open;endFill=0;strokeColor=#3399FF;rounded=0;strokeWidth=7;endSize=20;startFill=0;startSize=20;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="730" />
@@ -194,7 +188,7 @@
           <mxGeometry height="190" width="308.75" as="geometry" />
         </mxCell>
         <mxCell id="_mvZE4fIDKcjCtpPh1-f-8" parent="SBRDf5UTFeyPK4SHQsNQ-24" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=24;" value="Internes Netzwerk" vertex="1">
-          <mxGeometry height="40" width="210" x="49.36999999999989" y="200" as="geometry" />
+          <mxGeometry height="40" width="210" x="49.36999999999989" y="232" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
