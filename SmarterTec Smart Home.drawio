@@ -191,7 +191,7 @@
           <mxGeometry height="190" width="308.75" as="geometry" />
         </mxCell>
         <mxCell id="_mvZE4fIDKcjCtpPh1-f-8" parent="SBRDf5UTFeyPK4SHQsNQ-24" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" value="Internes Netzwerk" vertex="1">
-          <mxGeometry height="28" width="170.63" x="63" y="74" as="geometry" />
+          <mxGeometry height="28" width="170.63" x="68" y="118" as="geometry" />
         </mxCell>
         <mxCell id="KoUTDVHLd9iRWCRJB0oM-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" value="Pro Raum je ein Raspberry Pi Sensor Kit" vertex="1">
           <mxGeometry height="35" width="380" x="190" y="310" as="geometry" />
