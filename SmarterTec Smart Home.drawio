@@ -145,8 +145,8 @@
         <mxCell id="SBRDf5UTFeyPK4SHQsNQ-38" parent="SBRDf5UTFeyPK4SHQsNQ-23" style="whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;container=0;fillColor=none;" value="Home Assistant" vertex="1">
           <mxGeometry height="50" width="90" x="370.00000000000006" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="SBRDf5UTFeyPK4SHQsNQ-39" parent="SBRDf5UTFeyPK4SHQsNQ-23" style="whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;container=0;fillColor=none;" value="MQTT Broker" vertex="1">
-          <mxGeometry height="50" width="90" x="350.00000000000006" y="245.75" as="geometry" />
+        <mxCell id="SBRDf5UTFeyPK4SHQsNQ-39" parent="SBRDf5UTFeyPK4SHQsNQ-23" style="whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;container=0;fillColor=none;" value="Mosquitto Broker" vertex="1">
+          <mxGeometry height="50" width="90" x="370.00000000000006" y="245.75" as="geometry" />
         </mxCell>
         <mxCell id="SBRDf5UTFeyPK4SHQsNQ-32" edge="1" parent="1" source="SBRDf5UTFeyPK4SHQsNQ-11" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;elbow=vertical;startArrow=open;endFill=0;strokeColor=#EB5B21;rounded=0;strokeWidth=7;endSize=20;startFill=0;startSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="_mvZE4fIDKcjCtpPh1-f-3" value="">
           <mxGeometry relative="1" width="100" as="geometry">
