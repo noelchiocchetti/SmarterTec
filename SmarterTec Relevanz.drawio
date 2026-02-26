@@ -5,45 +5,45 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gETJYiWoEazGPCyRa00p-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="140" width="120" x="314" y="940" as="geometry" />
+          <mxGeometry height="140" width="120" x="314" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;rotation=45;strokeWidth=10;strokeColor=#EB5B21;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="175" width="323" x="283.49" y="983.99" as="geometry" />
+          <mxGeometry height="175" width="323" x="283.49" y="1103.99" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;rotation=-45;strokeWidth=10;strokeColor=#EB5B21;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="175" width="323" x="143.99958851545034" y="983.9895885154504" as="geometry" />
+          <mxGeometry height="175" width="323" x="143.99958851545034" y="1103.9895885154504" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;rotation=-45;strokeWidth=10;strokeColor=#EB5B21;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="175" width="323" x="283.48958851545035" y="859.9995885154502" as="geometry" />
+          <mxGeometry height="175" width="323" x="283.48958851545035" y="979.9995885154502" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;rotation=45;strokeWidth=10;strokeColor=#EB5B21;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="175" width="323" x="143.99958851545034" y="859.9995885154503" as="geometry" />
+          <mxGeometry height="175" width="323" x="143.99958851545034" y="979.9995885154503" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-14" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Mac Engineering" vertex="1">
-          <mxGeometry height="60" width="260" x="34" y="730" as="geometry" />
+          <mxGeometry height="60" width="260" x="34" y="850" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-15" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Cyber Security" vertex="1">
-          <mxGeometry height="60" width="260" x="454" y="730" as="geometry" />
+          <mxGeometry height="60" width="260" x="454" y="850" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-16" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Data Management" vertex="1">
-          <mxGeometry height="60" width="260" x="34" y="1220" as="geometry" />
+          <mxGeometry height="60" width="260" x="34" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-17" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Mac Support" vertex="1">
-          <mxGeometry height="60" width="210" x="479" y="1220" as="geometry" />
+          <mxGeometry height="60" width="210" x="479" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-20" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=#d79b00;fillColor=#ffe6cc;" value="SmarterTec" vertex="1">
-          <mxGeometry height="60" width="210" x="584" y="950" as="geometry" />
+          <mxGeometry height="60" width="210" x="584" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-22" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gETJYiWoEazGPCyRa00p-20" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="474" y="980" />
-              <mxPoint x="474" y="970" />
-              <mxPoint x="544" y="970" />
-              <mxPoint x="544" y="980" />
+              <mxPoint x="474" y="1100" />
+              <mxPoint x="474" y="1090" />
+              <mxPoint x="544" y="1090" />
+              <mxPoint x="544" y="1100" />
             </Array>
-            <mxPoint x="424" y="980" as="sourcePoint" />
-            <mxPoint x="479" y="950" as="targetPoint" />
+            <mxPoint x="424" y="1100" as="sourcePoint" />
+            <mxPoint x="479" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-23" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Mac Engineering" vertex="1">
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(51, 57, 68); color: rgb(51, 57, 68);&quot;&gt;&lt;font&gt;Professionelle Beratung und technischer Support rund um Mac-Systeme – von Diagnose und Fehlerbehebung über macOS-Installation und Performance-Optimierung bis zur Integration in bestehende IT-Umgebungen.&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="170" width="216" x="522" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gETJYiWoEazGPCyRa00p-31" edge="1" parent="1" style="shape=link;html=1;rounded=0;strokeWidth=6;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="9" y="730" as="sourcePoint" />
+            <mxPoint x="819" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
