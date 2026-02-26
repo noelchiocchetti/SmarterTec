@@ -47,28 +47,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-23" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Mac Engineering" vertex="1">
-          <mxGeometry height="60" width="260" x="80" y="50" as="geometry" />
+          <mxGeometry height="60" width="260" x="80" y="30" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-24" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Cyber Security" vertex="1">
-          <mxGeometry height="60" width="260" x="500" y="50" as="geometry" />
+          <mxGeometry height="60" width="260" x="500" y="30" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-25" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Data Management" vertex="1">
-          <mxGeometry height="60" width="260" x="80" y="540" as="geometry" />
+          <mxGeometry height="60" width="260" x="80" y="520" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-26" parent="1" style="whiteSpace=wrap;html=1;fontSize=40;strokeColor=none;fillColor=none;" value="Mac Support" vertex="1">
-          <mxGeometry height="60" width="210" x="525" y="540" as="geometry" />
+          <mxGeometry height="60" width="210" x="525" y="520" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(51, 57, 68); color: rgb(51, 57, 68);&quot;&gt;&lt;font&gt;Ganzheitliche Planung und Umsetzung leistungsfähiger Mac-Infrastrukturen – von der strukturierten Analyse über eine durchdachte Konzeption bis zur effizienten Inbetriebnahme im produktiven Betrieb.&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="170" width="216" x="104" y="130" as="geometry" />
+          <mxGeometry height="170" width="216" x="104" y="110" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(51, 57, 68); color: rgb(51, 57, 68);&quot;&gt;&lt;font&gt;Zuverlässige Data Management Strategien für Mac-Systeme: von der Konzeption bis zur Umsetzung sicherer und getesteter Backup- und Wiederherstellungsstrategien nach Best Practices sorgen für eine stabile Arbeitsumgebung.&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="170" width="216" x="102" y="340" as="geometry" />
+          <mxGeometry height="170" width="216" x="102" y="320" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(51, 57, 68); color: rgb(51, 57, 68);&quot;&gt;&lt;font&gt;Umfassender Schutz für Mac-Systeme: Prävention, Erkennung und Einordnung aktueller Bedrohungen wie Phishing, Ransomware oder Account-Hijacking – inklusive kompetenter Unterstützung im Ernstfall.&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="170" width="216" x="522" y="130" as="geometry" />
+          <mxGeometry height="170" width="216" x="522" y="110" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(51, 57, 68); color: rgb(51, 57, 68);&quot;&gt;&lt;font&gt;Professionelle Beratung und technischer Support rund um Mac-Systeme – von Diagnose und Fehlerbehebung über macOS-Installation und Performance-Optimierung bis zur Integration in bestehende IT-Umgebungen.&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="170" width="216" x="522" y="340" as="geometry" />
+          <mxGeometry height="170" width="216" x="522" y="320" as="geometry" />
         </mxCell>
         <mxCell id="gETJYiWoEazGPCyRa00p-31" edge="1" parent="1" style="shape=link;html=1;rounded=0;strokeWidth=6;" value="">
           <mxGeometry relative="1" width="100" as="geometry">
