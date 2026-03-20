@@ -26,10 +26,10 @@
           <mxGeometry height="147" width="158.5" x="1191.5" y="50" as="geometry" />
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-3" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ssd;" value="" vertex="1">
-          <mxGeometry height="85.5" width="120.42" x="193.07999999999998" y="257.25" as="geometry" />
+          <mxGeometry height="85.5" width="120.42" x="193.07999999999998" y="236.25" as="geometry" />
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-26" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="120" width="120" x="570.75" y="240" as="geometry" />
+          <mxGeometry height="120" width="120" x="570.75" y="219" as="geometry" />
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-18" connectable="0" parent="q-eznqpuTCvDOTaXx49y-26" style="group" value="" vertex="1">
           <mxGeometry height="120" width="50" as="geometry" />
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-28" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="120" width="120" x="1210" y="240" as="geometry" />
+          <mxGeometry height="120" width="120" x="1210" y="219" as="geometry" />
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-29" connectable="0" parent="q-eznqpuTCvDOTaXx49y-28" style="group" value="" vertex="1">
           <mxGeometry height="120" width="50" as="geometry" />
@@ -204,6 +204,12 @@
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" value="Internes&lt;div&gt;Netzwerk&lt;/div&gt;" vertex="1">
           <mxGeometry height="51.06" width="99.13" x="650" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="q-eznqpuTCvDOTaXx49y-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="RAID" vertex="1">
+          <mxGeometry height="30" width="60" x="600.75" y="339" as="geometry" />
+        </mxCell>
+        <mxCell id="q-eznqpuTCvDOTaXx49y-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="RAID" vertex="1">
+          <mxGeometry height="30" width="60" x="1240" y="339" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
