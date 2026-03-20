@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q-eznqpuTCvDOTaXx49y-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;opacity=30;verticalAlign=bottom;fontSize=32;" value="Restore Test" vertex="1">
+        <mxCell id="q-eznqpuTCvDOTaXx49y-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;opacity=30;verticalAlign=bottom;fontSize=32;" value="Test Restore" vertex="1">
           <mxGeometry height="280" width="310" x="475.75" y="530" as="geometry" />
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;fillStyle=auto;opacity=30;verticalAlign=bottom;fontSize=32;" value="Externer Standort" vertex="1">
@@ -201,6 +201,9 @@
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-55" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=6;strokeColor=#EB5B21;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;rotation=90;" value="" vertex="1">
           <mxGeometry height="15.44" width="160" x="550.0025481902071" y="449.99501672159" as="geometry" />
+        </mxCell>
+        <mxCell id="q-eznqpuTCvDOTaXx49y-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" value="Internes&lt;div&gt;Netzwerk&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51.06" width="99.13" x="650" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
