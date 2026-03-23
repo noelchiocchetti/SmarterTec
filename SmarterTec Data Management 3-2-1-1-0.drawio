@@ -211,11 +211,11 @@
         <mxCell id="q-eznqpuTCvDOTaXx49y-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1" value="RAID" vertex="1">
           <mxGeometry height="30" width="60" x="1240" y="399" as="geometry" />
         </mxCell>
-        <mxCell id="9PaVn6UbgIGSEiZmZCzy-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="NAS" vertex="1">
-          <mxGeometry height="30" width="60" x="600.75" y="80" as="geometry" />
+        <mxCell id="9PaVn6UbgIGSEiZmZCzy-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="NAS 1" vertex="1">
+          <mxGeometry height="30" width="79.25" x="591.13" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="9PaVn6UbgIGSEiZmZCzy-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="NAS" vertex="1">
-          <mxGeometry height="30" width="60" x="1240.75" y="80" as="geometry" />
+        <mxCell id="9PaVn6UbgIGSEiZmZCzy-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="NAS 2" vertex="1">
+          <mxGeometry height="30" width="79.25" x="1231.13" y="80" as="geometry" />
         </mxCell>
         <mxCell id="9PaVn6UbgIGSEiZmZCzy-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontStyle=1;rotation=-90;" value="Hard Disks" vertex="1">
           <mxGeometry height="30" width="110" x="500" y="330" as="geometry" />
