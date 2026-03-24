@@ -265,8 +265,8 @@
         <mxCell id="eU8dD0Mzzs_qeDPE_iy2-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontColor=#FFFFFF;" value="Offsite Kopie der Daten" vertex="1">
           <mxGeometry height="30" width="160" x="710" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="eU8dD0Mzzs_qeDPE_iy2-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontColor=#FFFFFF;" value="Offsite oder Offline Kopie der Daten" vertex="1">
-          <mxGeometry height="30" width="210" x="970" y="1050" as="geometry" />
+        <mxCell id="eU8dD0Mzzs_qeDPE_iy2-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontColor=#FFFFFF;" value="Air-Cap oder Offline Kopie der Daten" vertex="1">
+          <mxGeometry height="30" width="220" x="970" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="eU8dD0Mzzs_qeDPE_iy2-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontColor=#FFFFFF;" value="Fehler bei der Wiederherstellung" vertex="1">
           <mxGeometry height="30" width="190" x="1265" y="1050" as="geometry" />
