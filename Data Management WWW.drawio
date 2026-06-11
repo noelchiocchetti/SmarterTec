@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-29" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=50;fontSize=15;" value="Tailscale VPN" vertex="1">
+          <mxGeometry height="20" width="243.62" x="695.9984031671072" y="564.9997497131881" as="geometry" />
+        </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;fillStyle=auto;opacity=30;verticalAlign=bottom;fontSize=32;" value="Externer Standort" vertex="1">
           <mxGeometry height="326" width="397" x="1164" y="552" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-7" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=6;strokeColor=#EB5B21;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;rotation=49;" value="" vertex="1">
           <mxGeometry height="15.44" width="160" x="731.057406845684" y="602.9974068456838" as="geometry" />
         </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-10" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-90;fontSize=16;" value="VPN Tunnel" vertex="1">
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-10" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=right;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-90;fontSize=16;spacingLeft=0;spacingBottom=0;spacingRight=60;" value="Tailscale VPN" vertex="1">
           <mxGeometry height="20" width="250" x="621.37" y="366" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=50;fontSize=15;" value="Tailscale VPN" vertex="1">
@@ -67,7 +70,7 @@
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-14" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=0;fontSize=14;fontStyle=0;spacing=0;" value="Tailscale VPN" vertex="1">
           <mxGeometry height="20" width="180" x="366.75" y="145" as="geometry" />
         </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-16" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-90;fontSize=16;" value="VPN Tunnel" vertex="1">
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-16" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=right;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-90;fontSize=16;spacingRight=60;" value="Tailscale VPN" vertex="1">
           <mxGeometry height="20" width="250" x="550.62" y="366" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-19" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" value="&lt;div&gt;NAS Stage 2&lt;/div&gt;&lt;div&gt;Synology DS925&lt;/div&gt;" vertex="1">
@@ -96,12 +99,6 @@
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-28" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=6;strokeColor=#EB5B21;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;rotation=55;" value="" vertex="1">
           <mxGeometry height="15.44" width="90" x="1253.0047934177082" y="500.5598520816347" as="geometry" />
-        </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-29" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=50;fontSize=15;" value="Tailscale VPN" vertex="1">
-          <mxGeometry height="20" width="243.62" x="695.9984031671072" y="564.9997497131881" as="geometry" />
-        </mxCell>
-        <mxCell id="_mvZE4fIDKcjCtpPh1-f-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#EB5B21;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet;" value="" vertex="1">
-          <mxGeometry height="100" width="162.5" x="625.4399999999999" y="416" as="geometry" />
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-47" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" value="Internet" vertex="1">
           <mxGeometry height="28" width="100" x="656.69" y="521.5" as="geometry" />
@@ -205,6 +202,9 @@
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-13" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-45;fontSize=15;" value="Tailscale VPN" vertex="1">
           <mxGeometry height="20" width="250" x="468.56447442604116" y="562" as="geometry" />
+        </mxCell>
+        <mxCell id="_mvZE4fIDKcjCtpPh1-f-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#EB5B21;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet;" value="" vertex="1">
+          <mxGeometry height="100" width="162.5" x="625.4399999999999" y="416" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
