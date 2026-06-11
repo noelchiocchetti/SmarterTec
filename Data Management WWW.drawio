@@ -112,24 +112,6 @@
         <mxCell id="q-eznqpuTCvDOTaXx49y-47" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" value="Internet" vertex="1">
           <mxGeometry height="28" width="100" x="656.69" y="521.5" as="geometry" />
         </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-37" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="137" width="131" x="712.62" y="108" as="geometry" />
-        </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-34" parent="h-PEvE0wl5QbPk8jOgJu-37" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="137" width="131" as="geometry" />
-        </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-30" parent="h-PEvE0wl5QbPk8jOgJu-37" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
-          <mxGeometry height="69" width="120" x="4" y="2.5" as="geometry" />
-        </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-31" parent="h-PEvE0wl5QbPk8jOgJu-37" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="52.56" width="29" x="14" y="78.94" as="geometry" />
-        </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-32" parent="h-PEvE0wl5QbPk8jOgJu-37" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="52.56" width="29" x="54" y="80.22" as="geometry" />
-        </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-33" parent="h-PEvE0wl5QbPk8jOgJu-37" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="52.56" width="29" x="94" y="81.44" as="geometry" />
-        </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-38" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="155.5" width="303.25" x="546.75" y="96.5" as="geometry" />
         </mxCell>
@@ -180,6 +162,27 @@
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-55" parent="h-PEvE0wl5QbPk8jOgJu-49" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#d6b656;fontSize=20;strokeWidth=0;rotation=-45;" value="Inaktiv" vertex="1">
           <mxGeometry height="28" width="80" x="26" y="50.93999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;spacingLeft=10;" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NAS Nutzung:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Apple Mac Datensicherung mit Timemachine&lt;/div&gt;&lt;div&gt;- Virtual Private Cloud (VPC) mit Daten Ordner&lt;/div&gt;&lt;div&gt;- Synchronization der Daten aus der&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NAS Sicherheitsmechanismen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Getrennte Zugriffe für System Administrator und Benutzer&lt;/div&gt;&lt;div&gt;- Zugriffsvergabe zu Ordnern in der Private Cloud&lt;/div&gt;&lt;div&gt;- 2FA Authentication mit Authenticator App&lt;/div&gt;&lt;div&gt;- 2 stufige Verschlüsselung der Daten (Volume und Ordner)&lt;/div&gt;&lt;div&gt;- VPN Zugriff mit Tailscale&lt;/div&gt;&lt;div&gt;- Gehärtetes NAS System (Dienste und Firewall)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="247" width="450" x="80" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-57" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="137" width="131" x="712.62" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-34" parent="h-PEvE0wl5QbPk8jOgJu-57" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="137" width="131" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-30" parent="h-PEvE0wl5QbPk8jOgJu-57" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="69" width="120" x="4" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-31" parent="h-PEvE0wl5QbPk8jOgJu-57" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="52.56" width="29" x="14" y="78.94" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-32" parent="h-PEvE0wl5QbPk8jOgJu-57" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="52.56" width="29" x="54" y="79.22" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-33" parent="h-PEvE0wl5QbPk8jOgJu-57" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="52.56" width="29" x="94" y="79.44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
