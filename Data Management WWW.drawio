@@ -64,9 +64,6 @@
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=50;fontSize=15;" value="Tailscale VPN" vertex="1">
           <mxGeometry height="20" width="388.96" x="1056.81" y="394.33" as="geometry" />
         </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-13" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-45;fontSize=15;" value="Tailscale VPN" vertex="1">
-          <mxGeometry height="20" width="250" x="468.56447442604116" y="562" as="geometry" />
-        </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-14" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=0;fontSize=14;fontStyle=0;spacing=0;" value="Tailscale VPN" vertex="1">
           <mxGeometry height="20" width="180" x="366.75" y="145" as="geometry" />
         </mxCell>
@@ -160,8 +157,8 @@
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-55" parent="h-PEvE0wl5QbPk8jOgJu-49" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#d6b656;fontSize=20;strokeWidth=0;rotation=-45;" value="Inaktiv" vertex="1">
           <mxGeometry height="28" width="80" x="26" y="50.93999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="h-PEvE0wl5QbPk8jOgJu-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;spacingLeft=10;spacingRight=2;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;NAS Nutzung:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Apple Mac Datensicherung mit Timemachine&lt;/div&gt;&lt;div&gt;- Virtual Private Cloud (VPC) mit Daten Ordner&lt;/div&gt;&lt;div&gt;- Synchronization der Daten aus der VPC zu den Apple Mac der Benutzer&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NAS Sicherheitsmechanismen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Getrennte Zugriffe für System Administrator und Benutzer&lt;/div&gt;&lt;div&gt;- Zugriffsvergabe zu Ordnern in der Private Cloud&lt;/div&gt;&lt;div&gt;- 2FA Authentication mit Authenticator App&lt;/div&gt;&lt;div&gt;- 2 stufige Verschlüsselung der Daten (Volume und Ordner)&lt;/div&gt;&lt;div&gt;- VPN Zugriff mit Tailscale&lt;/div&gt;&lt;div&gt;- Gehärtetes NAS System (Dienste und Firewall)&lt;/div&gt;&lt;div&gt;- Schutz vor Cyber Attacken und physischen Ereignissen&lt;/div&gt;" vertex="1">
-          <mxGeometry height="283.28" width="440" x="80" y="336.72" as="geometry" />
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;spacingLeft=10;spacingRight=2;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;NAS Nutzung:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Apple Mac Datensicherung mit Timemachine&lt;/div&gt;&lt;div&gt;- Virtual Private Cloud (VPC) mit Daten Ordner&lt;/div&gt;&lt;div&gt;- Synchronization der Daten aus der VPC zu den Apple Mac der Benutzer&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Nutzung für aktuell 3 Benutzer, mit Ausbau für weitere Benutzer (Berechtigungen, eigene Ordner, geteilte Ordner)&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;NAS Sicherheitsmechanismen:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Getrennte Zugriffe für System Administrator und Benutzer&lt;/div&gt;&lt;div&gt;- Zugriffsvergabe zu Ordnern in der Private Cloud&lt;/div&gt;&lt;div&gt;- 2FA Authentication mit Authenticator App&lt;/div&gt;&lt;div&gt;- 2 stufige Verschlüsselung der Daten (Volume und Ordner)&lt;/div&gt;&lt;div&gt;- VPN Zugriff mit Tailscale&lt;/div&gt;&lt;div&gt;- Gehärtetes NAS System (Dienste und Firewall)&lt;/div&gt;&lt;div&gt;- Schutz vor Cyber Attacken und physischen Ereignissen&lt;/div&gt;" vertex="1">
+          <mxGeometry height="323.28" width="440" x="80" y="336.72" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-57" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="137" width="131" x="712.62" y="108" as="geometry" />
@@ -205,6 +202,9 @@
           <mxGeometry relative="1" x="-0.4167" y="-1" as="geometry">
             <mxPoint x="43" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-13" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-45;fontSize=15;" value="Tailscale VPN" vertex="1">
+          <mxGeometry height="20" width="250" x="468.56447442604116" y="562" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
