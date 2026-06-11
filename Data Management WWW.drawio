@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q-eznqpuTCvDOTaXx49y-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;fillStyle=auto;opacity=30;verticalAlign=bottom;fontSize=32;" value="Externer Standort" vertex="1">
-          <mxGeometry height="326" width="300" x="1253" y="552" as="geometry" />
+          <mxGeometry height="326" width="397" x="1164" y="552" as="geometry" />
         </mxCell>
         <mxCell id="q-eznqpuTCvDOTaXx49y-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;fillStyle=auto;opacity=30;verticalAlign=top;fontSize=32;labelPosition=center;verticalLabelPosition=middle;align=left;spacingLeft=6;spacingTop=2;" value="Standort Zollikon (CH)" vertex="1">
           <mxGeometry height="310" width="1250" x="80" y="20" as="geometry" />
@@ -80,16 +80,16 @@
           <mxGeometry height="20" width="159.25" x="853.75" y="145" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-21" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontColor=#333333;" value="Sicherung von&amp;nbsp;&lt;br&gt;NAS Stage 1" vertex="1">
-          <mxGeometry height="51.06" width="158.5" x="1013" y="259.47" as="geometry" />
+          <mxGeometry height="51.06" width="158.5" x="1088.75" y="259.47" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-22" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EB5B21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.nas;container=0;" value="" vertex="1">
-          <mxGeometry height="147" width="158.5" x="1333" y="623.56" as="geometry" />
+          <mxGeometry height="147" width="158.5" x="1244" y="623.56" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-23" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;" value="&lt;div&gt;NAS Stage 3&lt;/div&gt;&lt;div&gt;Synology DS925&lt;/div&gt;" vertex="1">
-          <mxGeometry height="51.06" width="158.5" x="1333" y="562" as="geometry" />
+          <mxGeometry height="51.06" width="158.5" x="1321" y="565" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-24" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=17;fontColor=#333333;" value="Sicherung von&amp;nbsp;&lt;br&gt;NAS Stage 2" vertex="1">
-          <mxGeometry height="51.06" width="158.5" x="1333" y="781.53" as="geometry" />
+          <mxGeometry height="51.06" width="158.5" x="1321" y="781.53" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-25" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#EB5B21;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet;" value="" vertex="1">
           <mxGeometry height="100" width="162.5" x="1127" y="386" as="geometry" />
@@ -155,6 +155,30 @@
           <mxGeometry height="137" width="131" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-47" parent="h-PEvE0wl5QbPk8jOgJu-46" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#d6b656;fontSize=20;strokeWidth=0;rotation=-45;" value="Inaktiv" vertex="1">
+          <mxGeometry height="28" width="80" x="26" y="50.93999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-48" parent="1" style="whiteSpace=wrap;html=1;dashed=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="155.5" width="303.25" x="1241" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-49" connectable="0" parent="1" style="group;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="137" width="131" x="1406" y="625.75" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-50" parent="h-PEvE0wl5QbPk8jOgJu-49" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="69" width="120" x="4" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-51" parent="h-PEvE0wl5QbPk8jOgJu-49" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="52.56" width="29" x="14" y="78.94" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-52" parent="h-PEvE0wl5QbPk8jOgJu-49" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="52.56" width="29" x="54" y="80.22" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-53" parent="h-PEvE0wl5QbPk8jOgJu-49" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="52.56" width="29" x="94" y="81.44" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-54" parent="h-PEvE0wl5QbPk8jOgJu-49" style="whiteSpace=wrap;html=1;gradientColor=none;fillStyle=solid;fillColor=default;opacity=70;" value="" vertex="1">
+          <mxGeometry height="137" width="131" as="geometry" />
+        </mxCell>
+        <mxCell id="h-PEvE0wl5QbPk8jOgJu-55" parent="h-PEvE0wl5QbPk8jOgJu-49" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=#d6b656;fontSize=20;strokeWidth=0;rotation=-45;" value="Inaktiv" vertex="1">
           <mxGeometry height="28" width="80" x="26" y="50.93999999999997" as="geometry" />
         </mxCell>
       </root>
