@@ -62,7 +62,7 @@
           <mxGeometry height="20" width="250" x="621.37" y="366" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=50;fontSize=15;" value="Tailscale VPN" vertex="1">
-          <mxGeometry height="20" width="406.81" x="1042.15" y="387.49" as="geometry" />
+          <mxGeometry height="20" width="388.96" x="1056.81" y="394.33" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-13" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.general.tunnel;rotation=-45;fontSize=15;" value="Tailscale VPN" vertex="1">
           <mxGeometry height="20" width="250" x="468.56447442604116" y="562" as="geometry" />
