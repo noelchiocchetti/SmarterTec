@@ -210,6 +210,17 @@
         <mxCell id="DMgQLd7AOgIGY_KYxyJ_-20" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="Externe bootable SSD wird nur für ca. 10-15 Minuten zur Sicherung angehängt. Nach Abschluss wird die SSD sofort abgängt" vertex="1">
           <mxGeometry height="58.03" width="331.87" x="278.13" y="371.26" as="geometry" />
         </mxCell>
+        <mxCell id="DMgQLd7AOgIGY_KYxyJ_-22" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=24;labelPosition=center;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="120" as="sourcePoint" />
+            <mxPoint x="583.24" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMgQLd7AOgIGY_KYxyJ_-23" connectable="0" parent="DMgQLd7AOgIGY_KYxyJ_-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBackgroundColor=none;rotation=0;" value="Laufende Sicherung nach NAS Main" vertex="1">
+          <mxGeometry relative="1" x="-0.4167" y="-1" as="geometry">
+            <mxPoint x="48" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
