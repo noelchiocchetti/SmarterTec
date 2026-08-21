@@ -95,7 +95,7 @@
           <mxGeometry height="100" width="162.5" x="1285.5" y="360" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-26" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" value="Internet" vertex="1">
-          <mxGeometry height="28" width="100" x="1241" y="470" as="geometry" />
+          <mxGeometry height="28" width="100" x="1285.5" y="470" as="geometry" />
         </mxCell>
         <mxCell id="h-PEvE0wl5QbPk8jOgJu-27" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=6;strokeColor=#EB5B21;shadow=0;dashed=0;shape=mxgraph.ios7.icons.flash;rotation=90;" value="" vertex="1">
           <mxGeometry height="15.44" width="90" x="1362.72" y="317.28" as="geometry" />
