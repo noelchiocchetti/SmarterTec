@@ -207,8 +207,8 @@
             <mxPoint x="3" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DMgQLd7AOgIGY_KYxyJ_-20" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="Externe SSD wird nur für ca. 10-15 Minuten zur Sicherung angehängt. Nach Abschluss wird die SSD sofort abgängt" vertex="1">
-          <mxGeometry height="58.03" width="303.25" x="278.13" y="371.26" as="geometry" />
+        <mxCell id="DMgQLd7AOgIGY_KYxyJ_-20" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;" value="Externe bootable SSD wird nur für ca. 10-15 Minuten zur Sicherung angehängt. Nach Abschluss wird die SSD sofort abgängt" vertex="1">
+          <mxGeometry height="58.03" width="331.87" x="278.13" y="371.26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
